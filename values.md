@@ -1,7 +1,3 @@
-Me
-You
-Us
-
 # Me
 
 I've made this document as a way for you to see and hear my thought processes while we work together.  New team members and leaders always come in with new perspectives (see [smell test](#smell-test)) and I've done my best to lay out who I am, what I care about and how I hope to act.  If you see me violating any of this, please [call me out](#feedback).
@@ -185,8 +181,9 @@ Owning it can mean different things in different context but let's take an examp
 
 Your mentee just shipped a bug and we're talking about it in our 1/1:
 
-Me:  Let's talk about Incident-123.
-You: Thanks for bringing this up.  The code that broke production came from the project we were both working on.  I missed the problem during code review and we clearly missed some automated tests to go along with it.  I've chatted with mentee about it, we talked about how to tighten up future code changes and what tests are needed for a feature to be shipped.  If there's more to share with the rest of the team we'll present it at our next retro.
+>Me:  Let's talk about Incident-123.
+>
+>You: Thanks for bringing this up.  The code that broke production came from the project we were both working on.  I missed the problem during code review and we clearly missed some automated tests to go along with it.  I've chatted with mentee about it, we talked about how to tighten up future code changes and what tests are needed for a feature to be shipped.  If there's more to share with the rest of the team we'll present that at our next retro.
 
 Breaking that down:
 
