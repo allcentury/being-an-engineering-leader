@@ -1,14 +1,16 @@
 # Me
 
-I've made this document as a way for you to see and hear my thought processes while we work together.  New team members and leaders always come in with new perspectives (see [smell test](#smell-test)) and I've done my best to lay out who I am, what I care about and how I hope to act.  If you see me violating any of this, please [call me out](#feedback).
+I've made this document as a way for you to see and hear my thought processes while we work together.  New team members and leaders always come in with new perspectives (see [smell test](#smell-test)) and I've done my best to lay out who I am, what I care about and how I hope to act.  If you see me violating any of this, please [call me out](#feedback-for-me).
 
 First and foremost, I am a person.  I try my best in most situations but I am fallible and you are too.  Sometimes I ask too much of myself and sometimes I might ask too much of you - I promise it comes from a good place but let's work together to set goals and boundaries that are achievable and desired.
 
 I am also a husband and a father.  My family means the world to me.  My son was desperate to fly his new kite that he got for his birthday and finally the wind picked up at 3pm on a Thursday.  You bet your bottom dollar I rescheduled my 3pm-4pm meeting, raced down the park and helped to put that shark kite 50ft into the sky.  I will always prioritize my family over everything else and you should too.  I am sympathetic to the complications of what it means to be an active part of a family or a community (friends, neighbors, religions groups, etc).  Let's talk about this so I can be in tune with your own situation.
 
-#### todo
+![pic of sam flying kite](./imgs/sam-kite.jpg)
 
-![pic of sam flying kite]("./imgs/sam-kite.jpg")
+## <a name='feedback-for-me'> Feedback</a>
+
+I love feedback.  Good, bad, unsure - send it over. My preference for feedback is in realtime either in a slack DM or verbally.  Your feedback is confidential and I will engage with you on how to address it and move forward.
 
 ## Trade Offs
 
@@ -25,6 +27,8 @@ I view engineering as a series of trade-offs.  Trade-offs, by definition implies
 * Nonfunctional requirements must be written down
 
 ### Multi-sided answers
+
+#### Request for Comments (RFC)
 
 One of the ways I get a glimpse into your thought process is around your ability to foresee and communicate trade-offs.  For engineering decisions I've found using an RFC(Request For Comments) process that forces you and the team to talk about a problem with multiple solutions, works best.  These documents give you the chance to share the problem, the solutions you are thinking about while also allowing the team to contribute.  It's also the best way I've found to build consensus, share knowledge and challenge each other to do the right long term thing on behalf of the customer and the team.  We won't reach consensus every time - see [decision making](#decision-making) when we're stuck.
 
@@ -46,42 +50,60 @@ As a manager my job is to help give you the career you want.  You're hopefully h
 
 We'll have 1 on 1's for 30 minutes every 1-2 weeks (your preference) where this time is totally focused on you.  We can talk about whatever you want - did your cat keep you up all night?  are you worried about your health? your visa? your career? I am here to listen (and I'm pretty good at it).
 
-I have a format I like to follow but I'm open to tailor it to your needs.  First, you and I share 1 doc (it's in the cal invite) and during the week you and I are both adding to it.  Example:
+#### Feedback
+
+During our first few sessions I will ask how you like to receive feedback.  First tell me if you prefer async or sync feedback and how you want it delivered, verbally or in writing. In my view the sooner I can give feedback the better, but I've managed some folks who prefer to wait until the weekly one on one's.  I'm flexible here.  Feedback is one way I can help you grow further with more self awareness.
+
+I have a format I like to follow for our 1:1's but I'm open to tailoring it to your needs.  First, you and I share 1 doc (it's in the cal invite) and during the week you and I are both adding to it.  Example:
 
 
----
-10/28
-
-Topics:
-1. Last weeks incident
-1. Mentoring
-1. PTO
-1. Career growth ideas
+> ~~~~
+> metadata
+> feedback preference: realtime via chat
+> current technical goal: test container cold starts on lambda's
+> current personal goal: 1-2 conference talk submissions re: database's
+> ~~~~
+> 10/28
+>
+> Topics:
+>  1. Last weeks incident
+>  1. Mentoring
+>  1. PTO
+>  1. Career growth ideas
 
 --------
 
+The metadata section is a place for both of us to set high level goals that span many one on one's.  The list is your chance (and mine) to add things during the week as they come up - I would order them so we spend time talking about the most meaningful things to you first.
+
 After we go through the list, I want to cover 2 topics that are vital to your long term success - growing yourself and your career.  To do that, I'll ask you to come up with 3-6 month goals for personal and technical growth.
+
 
 #### Personal Growth
 
-You are not the same person you were 6 months ago, never mind 6 years ago.  A lot of that was likely due to the different environments you were in.  I want you to be intentional with your own growth.  Examples of goals in this area include things like public speaking (conference talks), presentation skills (influencing other engineers, biz folks, product), oral communication, written communication, mental and physical wellness, etc.
+You are not the same person you were 6 months ago, never mind 6 years ago.  A lot of that was likely due to the different environments you were in.  In this environment we're in together, I want you to be intentional with your own growth.  Examples of goals in this area include things like public speaking (conference talks), presentation skills (influencing other engineers, biz folks, product), oral communication, written communication, mental and physical wellness, etc.
 
-The best personal growth opportunities are ones that benefit you, the team and the business (not alway  in that order).  Set real goals, that can be measured.
+The best personal growth opportunities are ones that benefit you, the team and the business (not always in that order).  Set real goals, that can be measured.
 
-Good examples of achievable goals:
+##### Good examples of achievable goals:
 
-1. I want to submit an idea for a conference talk to 3 conferences.  This is a good goal because you don't control whether your talk gets chosen but you do control the submission.  The team and I can help you refine this to increase your chances.
-1. I want to host 2 retros this quarter to help with my oral communication.  Sold!
+* I want to submit an idea for a conference talk to 3 conferences.
 
-Poor examples of achievable goals:
+This is a good goal because you don't control whether your talk gets chosen but you do control the submission.  The team and I can help you refine this to increase your chances.
 
-1. I want to get better at written communication.
-1. I want to feel less stressed at work.
+* I want to host 2 retros this quarter to help with my oral communication.
+
+Sold!
+
+
+##### Poor examples of achievable goals:
+
+* I want to get better at written communication.
+* I want to feel less stressed at work.
 
 Those are poor because the outcome is subjective and immeasurable.  If they are immeasurable that means I can't be your accountability-buddy and we'll do circles around your growth. You could tighten those up like so:
 
-1. I want to get better at written communication by submitting 3 [RFC](#rfcs)'s in the next 6 months.
-1. I want to feel less stressed at work, so I plan to exercise 3 mornings during the work week.
+* I want to get better at written communication by submitting 3 [RFC](#request-for-comments-(rfc))'s in the next 6 months.
+* I want to feel less stressed at work, so I plan to exercise 3 mornings during the work week.
 
 #### Technical Growth
 
@@ -208,6 +230,8 @@ Breaking that down:
 1. You're accountable to the rest of the team
 
 By having this mindset and accountability you will create such a positive impact on your mentee and your team.  I promise that for any teams I am part of, failing is never a blame game.  Owners feel that blame without it being directed towards them but bugs are not one persons fault - we all have to be active and vigilant to raise the bar and ship higher quality products.
+
+
 
 ## Resources
 
