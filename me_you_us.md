@@ -4,11 +4,11 @@ I've made this document as a way for you to see and hear my thought processes wh
 
 First and foremost, I am a person.  I try my best in most situations but I am fallible and you are too.  Sometimes I ask too much of myself and sometimes I might ask too much of you - I promise it comes from a good place but let's work together to set goals and boundaries that are achievable and desired.
 
-I am also a husband and a father.  My family means the world to me.  My son was desperate to fly his new kite and finally the wind picked up at 3pm on a Thursday.  You bet your bottom dollar I rescheduled my 3pm-4pm meeting, raced down the park and put that shark kite 50ft into the sky.  I will always prioritize my family over everything else and you should too.  I am sympathetic to the complications of what it means to be an active part of a family or a community (friends, neighbors, religions groups, etc).  Let's talk about this so I can be in tune with your own situation.
+I am also a husband and a father.  My family means the world to me.  My son was desperate to fly his new kite that he got for his birthday and finally the wind picked up at 3pm on a Thursday.  You bet your bottom dollar I rescheduled my 3pm-4pm meeting, raced down the park and helped to put that shark kite 50ft into the sky.  I will always prioritize my family over everything else and you should too.  I am sympathetic to the complications of what it means to be an active part of a family or a community (friends, neighbors, religions groups, etc).  Let's talk about this so I can be in tune with your own situation.
 
 #### todo
-[pic of sam flying kite]
-[pic of family]
+
+![pic of sam flying kite]("./imgs/sam-kite.jpg")
 
 ## Trade Offs
 
