@@ -4,64 +4,41 @@ I've made this document as a way for you to see and hear my thought processes wh
 
 First and foremost, I am a person.  I try my best in most situations but I am fallible and you are too.  Sometimes I ask too much of myself and sometimes I might ask too much of you - I promise it comes from a good place but let's work together to set goals and boundaries that are achievable and desired.
 
-I am also a husband and a father.  My family means the world to me.  My son was desperate to fly his new kite that he got for his birthday and finally the wind picked up at 3pm on a Thursday.  You bet your bottom dollar I rescheduled my 3pm-4pm meeting, raced down the park and helped to put that shark kite 50ft into the sky.  I will always prioritize my family over everything else and you should too.  I am sympathetic to the complications of what it means to be an active part of a family or a community (friends, neighbors, religions groups, etc).  Let's talk about this so I can be in tune with your own situation.
+I am also a husband and a father.  My family means the world to me.  My son was desperate to fly his new kite that he got for his birthday and finally the wind picked up at 3pm on a Thursday.  You bet your bottom dollar I kindly asked if we could reschedule my 3pm-4pm meeting, raced down to the park and helped to put that shark kite 50ft into the sky.  I will always prioritize my family over everything else and you should too.  I am sympathetic to the complications of what it means to be an active part of a family or a community (friends, neighbors, religions groups, etc).  Let's talk about this so I can be in tune with your own situation.
 
 ![pic of sam flying kite](./imgs/sam-kite.jpg)
 
 ## <a name='feedback-for-me'> Feedback</a>
 
-I love feedback.  Good, bad, unsure - send it over. My preference for feedback is in realtime either in a slack DM or verbally.  Your feedback is confidential and I will engage with you on how to address it and move forward.
-
-## Trade Offs
-
-> “Give me a one-handed economist.  All my economists say, ‘on the one hand...', then, 'but on the other...'” - Harry Truman
-
-I view engineering as a series of trade-offs.  Trade-offs, by definition implies that there's more than one answer but to me, some questions only have one answer.  For example, if you ask me whether to ship now and test later or test now and ship later, I will always answer that we should test now.  Some answers like this are automatic but most answers start with 'it depends...'
-
-### One-sided answers
-
-* Tests are part of code complete
-* You own any manual tests in any environment your code lives (where automation isn't feasible)
-* Automation over process
-* Monitors are in the [definition of done](#definition-of-done)
-* Nonfunctional requirements must be written down
-
-### Multi-sided answers
-
-#### Request for Comments (RFC)
-
-One of the ways I get a glimpse into your thought process is around your ability to foresee and communicate trade-offs.  For engineering decisions I've found using an RFC(Request For Comments) process that forces you and the team to talk about a problem with multiple solutions, works best.  These documents give you the chance to share the problem, the solutions you are thinking about while also allowing the team to contribute.  It's also the best way I've found to build consensus, share knowledge and challenge each other to do the right long term thing on behalf of the customer and the team.  We won't reach consensus every time - see [decision making](#decision-making) when we're stuck.
-
-Once an RFC has been drafted and the team has move forward with a solution, we have 2 goals - one short term and another medium term.  In the short term, whether you agreed with the chosen path or not, we have to come together and commit to the solution and to the team.  We all make hard choices and sometimes it can feel difficult to move forward with a solution you didn't think was our best option.  My ask is that you remain open to what the team selected and help the team see it through.  If after some time, we find ourselves running into problems due to the solution we chose and we need to pivot, we'll create something called an Architecture Decision Log (ADL).
-
-ADL's are a way for us to capture architecture outcomes.  Examples of ADL's are when we abandon a technology in favor of another, or when we move from one pattern to another (ie synchronous to asynchronous).  ADL's answer questions for new teammates that typically come up during their own smell test.  Questions like, "why did we chose X over Y?" or "did we knowingly cut this corner?".  ADL's share the context of big decisions that effect the entire team along with empowering newcomers to propose new ideas and solutions by using historical context.
-
-[RFC Template](broken-link)
-[ADL Template](broken-link)
+I love feedback.  Good, bad, unsure - send it over. My preference for feedback is in realtime either in a slack DM or verbally.  Your feedback is confidential and I will engage with you on how to address it so we can both move forward.
 
 
 # You
 
 ## Your Career
 
-As a manager my job is to help give you the career you want.  You're hopefully here for reasons of your choosing (you're in an indemand field, I haven't forgotten that) and so I want to acknowledge that your motivations, while evolving, are hopefully inline with where the company is heading.  Note that I wrote company and not team.  Teams, products and work come and go but if you're excited about the company and the mission, you find yourself adaptable and excitable towards change.
+As a manager my job is to help give you the career you want.  You're hopefully here for reasons of your choosing (you're in an in demand field, I haven't forgotten that) and so I want to acknowledge that your motivations, while evolving, are hopefully inline with where the company is heading.  Note that I wrote company and not team.  Teams, products and work come and go but if you're excited about the company and the mission, you find yourself adaptable and excitable even with underlying change.
 
-### 1 on 1's
+### 1:1's
 
 We'll have 1 on 1's for 30 minutes every 1-2 weeks (your preference) where this time is totally focused on you.  We can talk about whatever you want - did your cat keep you up all night?  are you worried about your health? your visa? your career? I am here to listen (and I'm pretty good at it).
 
+#### Score
+
+One of the first questions, I'll ask is on a scale of 1-10 - how are you doing this week? Any answer is appropriate it here.
+
 #### Feedback
 
-During our first few sessions I will ask how you like to receive feedback.  First tell me if you prefer async or sync feedback and how you want it delivered, verbally or in writing. In my view the sooner I can give feedback the better, but I've managed some folks who prefer to wait until the weekly one on one's.  I'm flexible here.  Feedback is one way I can help you grow further with more self awareness.
+During our first few sessions I will ask how you like to receive feedback.  First tell me if you prefer async or sync feedback and how you want it delivered, verbally or in writing. In my view the sooner I can give feedback the better, but I've managed some folks who prefer to wait until the weekly 1:1's.  I'm flexible here.  Feedback is a great way for me to help you grow further both personally and progressionally, while also giving you more self awareness.
 
 I have a format I like to follow for our 1:1's but I'm open to tailoring it to your needs.  First, you and I share 1 doc (it's in the cal invite) and during the week you and I are both adding to it.  Example:
 
 
 > ~~~~
-> metadata
-> feedback preference: realtime via chat
+> metadata heading
+> feedback preference: realtime via chat dm
 > current technical goal: test container cold starts on lambda's
-> current personal goal: 1-2 conference talk submissions re: database's
+> current personal goal: 1-2 conference talk submissions re: database optimizations
 > ~~~~
 > 10/28
 >
@@ -73,7 +50,7 @@ I have a format I like to follow for our 1:1's but I'm open to tailoring it to y
 
 --------
 
-The metadata section is a place for both of us to set high level goals that span many one on one's.  The list is your chance (and mine) to add things during the week as they come up - I would order them so we spend time talking about the most meaningful things to you first.
+The metadata section is a place for both of us to set high level goals that span many 1:1's.  The list is your chance (and mine) to add things during the week as they come up - I would prefer you order them so we spend time talking about the most meaningful things to you first.
 
 After we go through the list, I want to cover 2 topics that are vital to your long term success - growing yourself and your career.  To do that, I'll ask you to come up with 3-6 month goals for personal and technical growth.
 
@@ -158,6 +135,30 @@ You gain new users with new products but you __keep__ those users with a focus o
 
 
 # Us
+
+## Trade Offs
+
+> “Give me a one-handed economist.  All my economists say, ‘on the one hand...', then, 'but on the other...'” - Harry Truman
+
+I view engineering as a series of trade-offs.  Trade-offs, by definition implies that there's more than one answer but to me, some questions only have one answer.  For example, if you ask me whether to ship now and test later or test now and ship later, I will always answer that we should test now.  Some answers like this are automatic but most answers start with 'it depends...'
+
+### One-sided answers
+
+* Automation over process
+* Nonfunctional requirements must be defined inline with their corresponding functional requirements
+
+### Multi-sided answers
+
+#### Request for Comments (RFC)
+
+One of the ways I get a glimpse into your thought process is around your ability to foresee and communicate trade-offs.  For engineering decisions I've found using an RFC(Request For Comments) process that forces you and the team to talk about a problem with multiple solutions, works best.  These documents give you the chance to share the problem, the solutions you are thinking about while also allowing the team to contribute.  It's also the best way I've found to build consensus, share knowledge and challenge each other to do the right long term thing on behalf of the customer and the team.  We won't reach consensus every time - see [decision making](#decision-making) when we're stuck.
+
+Once an RFC has been drafted and the team has move forward with a solution, we have 2 goals - one short term and another medium term.  In the short term, whether you agreed with the chosen path or not, we have to come together and commit to the solution and to the team.  We all make hard choices and sometimes it can feel difficult to move forward with a solution you didn't think was our best option.  My ask is that you remain open to what the team selected and help the team see it through.  If after some time, we find ourselves running into problems due to the solution we chose and we need to pivot, we'll create something called an Architecture Decision Log (ADL).
+
+ADL's are a way for us to capture architecture outcomes.  Examples of ADL's are when we abandon a technology in favor of another, or when we move from one pattern to another (ie synchronous to asynchronous).  ADL's answer questions for new teammates that typically come up during their own smell test.  Questions like, "why did we chose X over Y?" or "did we knowingly cut this corner?".  ADL's share the context of big decisions that effect the entire team along with empowering newcomers to propose new ideas and solutions by using historical context.
+
+[RFC Template](broken-link)
+[ADL Template](broken-link)
 
 ## Engineering Best Practices
 
