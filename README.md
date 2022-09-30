@@ -6,3 +6,7 @@ You are welcome to use these ideas, concepts and ideals (many of them are alread
 Managing is hard.  People, companies and organizations are wildly complicated and trying to put them in some series of clean boxes or categories is a trap. Instead my goal here is find generalized concepts and practical processes and adapt them based on my current role and responsibilities.
 
 I'm happy to [chat](mailto:anthony.s.ross@gmail.com) or take feedback on any of this (open a GH issue).
+
+## Table of Contents
+
+1. [Me, You and Us](./me_you_us.md)
