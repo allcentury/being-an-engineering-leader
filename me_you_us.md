@@ -29,7 +29,7 @@ One of the first questions, I'll ask is on a scale of 1-10 - how are you doing t
 
 #### Feedback
 
-During our first few sessions I will ask how you like to receive feedback.  First tell me if you prefer async or sync feedback and how you want it delivered, verbally or in writing. In my view the sooner I can give feedback the better, but I've managed some folks who prefer to wait until the weekly 1:1's.  I'm flexible here.  Feedback is a great way for me to help you grow further both personally and progressionally, while also giving you more self awareness.
+During our first few sessions I will ask how you like to receive feedback.  First tell me if you prefer async or sync feedback and how you want it delivered, verbally or in writing. In my view the sooner I can give feedback the better, but I've managed some folks who prefer to wait until the weekly 1:1's.  I'm flexible here.  Feedback is a great way for me to help you grow further both personally and professionally, while also giving you more self awareness.
 
 I have a format I like to follow for our 1:1's but I'm open to tailoring it to your needs.  First, you and I share 1 doc (it's in the cal invite) and during the week you and I are both adding to it.  Example:
 
@@ -50,7 +50,7 @@ I have a format I like to follow for our 1:1's but I'm open to tailoring it to y
 
 --------
 
-The metadata section is a place for both of us to set high level goals that span many 1:1's.  The list is your chance (and mine) to add things during the week as they come up - I would prefer you order them so we spend time talking about the most meaningful things to you first.
+The metadata section is a place for both of us to set high level goals that span many 1:1's.  The list is your chance (and mine) to add things during the week as they come up - I would prefer you order them so we spend time talking about the most meaningful things first.
 
 After we go through the list, I want to cover 2 topics that are vital to your long term success - growing yourself and your career.  To do that, I'll ask you to come up with 3-6 month goals for personal and technical growth.
 
@@ -63,7 +63,7 @@ The best personal growth opportunities are ones that benefit you, the team and t
 
 ##### Good examples of achievable goals:
 
-* I want to submit an idea for a conference talk to 3 conferences.
+* I want to submit an idea for a conference talk to to at least 3 separate conferences.
 
 This is a good goal because you don't control whether your talk gets chosen but you do control the submission.  The team and I can help you refine this to increase your chances.
 
@@ -88,8 +88,8 @@ You got into this field because you love technology, not necessarily to help you
 
 Good examples of achievable goals:
 
-1. I want to try out CockroachDB as an alternative to PostgreSQL and present my finds back to the team by the end of Q2.
-1. I want to test AWS Lambda on our async batch processing to see if it scales better and/or is more cost efficient.  I'll write up a report back to the team with my findings.
+1. I want to try out CockroachDB as an alternative to PostgreSQL and present my findings back to the team by the end of Q2.
+1. I want to test AWS Lambda on our async batch processing to see if it scales better and/or is more cost effective.  I'll write up a report back to the team with my findings.
 
 Poor examples of achievable goals:
 
@@ -98,7 +98,7 @@ Poor examples of achievable goals:
 
 Those last examples are immeasurable and vague.  Learning rust is a great idea but because it can't be measured, I would come back and say, 'why don't you try to learn rust while doing the [advent of code for 2020](https://adventofcode.com/)'.  I can be your accountability buddy by looking at what you've solved and ask about what you've learned.
 
-For the "learn good architecture" goal, I'd suggest finding an open source project that is thought to have good architecture (k8s, ruby on rails, react) - take a portion of it, try and learn it and present back to the team patterns you saw.
+For the "learn good architecture" goal, I'd suggest finding an open source project that is thought to have good architecture (k8s, ruby on rails, react) - take a portion of it, try and learn it and present back to the team with patterns you saw.
 
 ## Craft vs Greenfield
 
@@ -205,7 +205,7 @@ Team members feel safe to take risks, speak their mind and be vulnerable in fron
 
 ## Leveling Up and Expectations
 
-One of the hardest and most complicated areas regarding your career are your own expectations and where that intersects with your companies expectations.  PayPal has the [Step Up Guide](https://go/stepup) which is a great guide to help you think about what you're great at and where you need to improve.  In addition to that guide, here is where I stand on high performers and level expectations.
+One of the hardest and most complicated areas regarding your career are your own expectations and where that intersects with your companies expectations.  Most companies have a career ladder which is a great to help you think areas where you can improve.  In addition to that guide, here is where I stand on high performers and level expectations.
 
 ### High Performers at the Senior+ Level
 
@@ -231,7 +231,6 @@ Breaking that down:
 1. You're accountable to the rest of the team
 
 By having this mindset and accountability you will create such a positive impact on your mentee and your team.  I promise that for any teams I am part of, failing is never a blame game.  Owners feel that blame without it being directed towards them but bugs are not one persons fault - we all have to be active and vigilant to raise the bar and ship higher quality products.
-
 
 
 ## Resources
