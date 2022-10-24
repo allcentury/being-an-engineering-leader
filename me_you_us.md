@@ -235,6 +235,6 @@ By having this mindset and accountability you will create such a positive impact
 
 ## Resources
 
-[project-aristotle-nyt]: https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html#commentsContainer
+[project-aristotle-nyt]: https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
 [project-aristotle]: https://rework.withgoogle.com/print/guides/5721312655835136/
 [argo]: https://argoproj.github.io/argo-rollouts/
