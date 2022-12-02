@@ -21,7 +21,17 @@ As a manager my job is to help give you the career you want.  You're hopefully h
 
 ### 1:1's
 
-We'll have 1 on 1's for 30 minutes every 1-2 weeks (your preference) where this time is totally focused on you.  We can talk about whatever you want - did your cat keep you up all night?  are you worried about your health? your visa? your career? I am here to listen (and I'm pretty good at it).
+We'll have 1 on 1's for 30 minutes every 1-2 weeks (your preference) where this time is totally focused on you.
+
+#### Conversations
+
+Conversations between two people are a mix of talking and listening.  In this 1:1 I hope the ratio of talking to listening is even at worst and at best lopsided where I'm doing the bulk of the listening.
+
+#### Listening
+
+> “True listening requires a setting aside of oneself.” - M. Scott Peck
+
+I am here to listen (and I'm pretty good at it).
 
 #### Score
 
