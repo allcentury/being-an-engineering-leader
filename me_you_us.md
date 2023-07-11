@@ -94,7 +94,7 @@ Those are poor because the outcome is subjective and immeasurable.  If they are 
 
 #### Technical Growth
 
-You got into this field because you love technology, not necessarily to help your aunt and uncles when their internet is "slow".  Was that example also too close to home for you?
+You got into this field because you love technology, not necessarily to help your aunt and uncles when their internet is "slow".
 
 Good examples of achievable goals:
 
