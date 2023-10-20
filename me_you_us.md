@@ -67,7 +67,7 @@ After we go through the list, I want to cover 2 topics that are vital to your lo
 
 #### Personal Growth
 
-You are not the same person you were 6 months ago, never mind 6 years ago.  A lot of that was likely due to the different environments you were in.  In this environment we're in together, I want you to be intentional with your own growth.  Examples of goals in this area include things like public speaking (conference talks), presentation skills (influencing other engineers, biz folks, product), oral communication, written communication, mental and physical wellness, etc.
+You are not the same person you were 6 months ago, never mind 6 years ago.  A lot of that was likely due to the different environments you were in.  In this environment we're in together, I want you to be intentional with your own growth.  Examples of goals in this area include things like public speaking (conference talks), presentation skills (influencing other engineers, biz folks, product), oral communication, written communication, mentorship, hiring, social good, etc.
 
 The best personal growth opportunities are ones that benefit you, the team and the business (not always in that order).  Set real goals, that can be measured.
 
@@ -77,7 +77,7 @@ The best personal growth opportunities are ones that benefit you, the team and t
 
 This is a good goal because you don't control whether your talk gets chosen but you do control the submission.  The team and I can help you refine this to increase your chances.
 
-* I want to host 2 retros this quarter to help with my oral communication.
+* I want to host 2 retros this quarter to help with guiding teammates with potentially difficult topics.
 
 Sold!
 
@@ -98,17 +98,19 @@ You got into this field because you love technology, not necessarily to help you
 
 Good examples of achievable goals:
 
-1. I want to try out CockroachDB as an alternative to PostgreSQL and present my findings back to the team by the end of Q2.
-1. I want to test AWS Lambda on our async batch processing to see if it scales better and/or is more cost effective.  I'll write up a report back to the team with my findings.
+1. I want to A/B test CockroachDB as an alternative to PostgreSQL and present my findings back to the team by the end of Q2.
+1. I want to A/B test AWS Lambda on our async batch processing to see if it scales better and/or is more cost effective.  I'll write up a report back to the team with my findings.
 
 Poor examples of achievable goals:
 
 1. I want to learn rust.
 1. I want to learn about good architecture.
 
-Those last examples are immeasurable and vague.  Learning rust is a great idea but because it can't be measured, I would come back and say, 'why don't you try to learn rust while doing the [advent of code for 2020](https://adventofcode.com/)'.  I can be your accountability buddy by looking at what you've solved and ask about what you've learned.
+Those last examples are immeasurable and vague.  Learning rust could be a great idea but because it can't be measured, I would come back and say, 'why don't you try to learn rust while doing the [advent of code for 2020](https://adventofcode.com/)'.  I can be your accountability buddy by looking at what you've solved and ask about what you've learned.  If you can tie this goal to something the business needs, that is even better. For example:
 
-For the "learn good architecture" goal, I'd suggest finding an open source project that is thought to have good architecture (k8s, ruby on rails, react) - take a portion of it, try and learn it and present back to the team with patterns you saw.
+1. I am going to learn how rust does cuncurrency different from X and report back whether this could increase performance on Y. 
+
+For the "learn good architecture" goal, I'd suggest finding an open source project that is thought to have good architecture (k8s, ruby on rails, react) - take a portion of it, try and learn it and present back to the team with patterns you learned/found.
 
 ## Craft vs Greenfield
 
